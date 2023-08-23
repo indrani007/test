@@ -1,0 +1,6 @@
+{{#user}}
+Name: Indrani Dey
+Skills: HTML, CSS, JS,Bootstrap,Java,Sql
+Email: indranidey849@gmail.com
+{{/user}}
+
